@@ -1,4 +1,4 @@
-package com.example.resume
+package com.pratheek.resume
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

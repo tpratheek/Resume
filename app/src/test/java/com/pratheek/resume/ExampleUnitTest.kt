@@ -1,4 +1,4 @@
-package com.example.resume
+package com.pratheek.resume
 
 import org.junit.Test
 
